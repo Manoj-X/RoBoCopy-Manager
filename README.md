@@ -34,8 +34,6 @@ RoBoCopy-Manager/
 
 │         └── RoBoCopy Manager.py
 
-│
-
 ├── LICENSE
 
 └── README.md
