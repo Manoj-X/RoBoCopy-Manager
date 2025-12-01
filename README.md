@@ -7,7 +7,9 @@ Designed to simplify multi-file copying with speed, logs, and a clean interface.
 
 🚀 Features
 ✔ Select multiple source files (must be in same folder)
+
 ✔ Destination folder auto-detection
+
 ✔ Fast copy preset using:"/E /MT:32 /R:1 /W:1"
 ✔ Real-time Robocopy output display
 ✔ Auto log saving in %USERPROFILE%/.robocopy_gui/logs
