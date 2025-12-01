@@ -27,15 +27,19 @@ Designed to simplify multi-file copying with speed, logs, and a clean interface.
 📂 Project Structure
 
 RoBoCopy-Manager/
+
 │
 
 ├── src/
+
 │   └── RoBoCopy Manager.py
 
 ├── build/
+
 │   └── RoBoCopyManager_setup.exe
 
 │
+
 ├── LICENSE
 
 └── README.md
