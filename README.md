@@ -10,12 +10,7 @@ This release includes the full application packaged with a clean installer, maki
 
 ✔ Multi-file selection (files must be from same folder)
 
-✔ Auto-detection of destination folder
-
-✔ Fast-copy preset:
-
-/E /MT:32 /R:1 /W:1
-
+✔ Fast-copy preset: "/E /MT:32 /R:1 /W:1"
 
 ✔ Real-time Robocopy output in GUI
 
